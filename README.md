@@ -1,0 +1,1 @@
+# Bloomberg-Global-Trading-Challenge
